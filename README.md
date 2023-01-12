@@ -1,23 +1,17 @@
-# Make Horiseon Marketing Agency's Code Clean
+# Make Horiseon Marketing Agency's Home Page Accessible
 
 # User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+Horiseon asked us to make their site more accessible, so that it is optimzied for search engines. Make the site W3C standard.
 
 # Acceptance Criteria
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
+* Webpage to meet accessibility standards
 
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
+* Change all html elements to semantic HTML elements
 
-WHEN I view the image elements
-THEN I find accessible alt attributes
+* Add logical structure independent of styling and positioning
 
-WHEN I view the heading attributes
-THEN they fall in sequential order
+* Add Alt tags to images
 
-WHEN I view the title element
-THEN I find a concise, descriptive title
+* Headings to call in sequential order
+
+* Add concise descriptive titles
