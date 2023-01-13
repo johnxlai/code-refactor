@@ -1,3 +1,4 @@
+/* Global Styling */
 * {
   box-sizing: border-box;
   padding: 0;
@@ -27,6 +28,7 @@ p {
   margin-left: 25px;
 }
 
+/* Header Section */
 .header {
   padding: 20px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
@@ -61,6 +63,7 @@ p {
   margin-left: 25px;
 }
 
+/* Hero section */
 .hero {
   height: 800px;
   width: 100%;
@@ -70,6 +73,7 @@ p {
   background-position: center;
 }
 
+/* Main Section */
 section.content {
   width: 75%;
   display: inline-block;
@@ -94,6 +98,7 @@ section.content article h2 {
   font-size: 36px;
 }
 
+/* Side Articles */
 aside.benefits {
   margin-right: 20px;
   padding: 20px;
@@ -119,6 +124,7 @@ aside.benefits article img {
   max-width: 150px;
 }
 
+/* footer */
 .footer {
   clear: both;
   padding: 30px;
