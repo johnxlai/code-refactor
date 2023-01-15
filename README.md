@@ -12,5 +12,3 @@ Horiseon asked us to make their site more accessible, so that it is optimzied fo
 
 # Live Site
 * https://johnxlai.github.io/challenge-1/
-
-# Test
